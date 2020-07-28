@@ -17,7 +17,5 @@ jobs:
       - uses: MartinYan623/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_EDITORS: true
-          SHOW_OS: true
           
 
