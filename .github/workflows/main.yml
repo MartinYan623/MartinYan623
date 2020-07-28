@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: MartinYan623/waka-readme@master
         with:
-          WAKATIME_API_KEY: 8f712645-a0ca-4051-9601-ad3904174e50
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_EDITORS: true
           SHOW_OS: true
           
