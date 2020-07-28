@@ -2,6 +2,10 @@
 
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 💻 Open Source Work Stats
 
 ![martinyan's Github stats](https://github-readme-stats.vercel.app/api?username=MartinYan623&show_icons=true)
