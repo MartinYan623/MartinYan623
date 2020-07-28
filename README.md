@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
 ## 💻 Open Source Work Stats
 
