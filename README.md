@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+## 💻 Open Source Work Stats
+
+![martinyan's Github stats](https://github-readme-stats.vercel.app/api?username=MartinYan623&show_icons=true)
+
 <!--
 **MartinYan623/MartinYan623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
