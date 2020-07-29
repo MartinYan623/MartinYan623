@@ -5,7 +5,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other        3 hrs 45 mins   █████████████████████░░░░   87.45 % 
+CSV          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Markdown     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+HTML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 <!--END_SECTION:waka-->
 
