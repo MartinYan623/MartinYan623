@@ -4,8 +4,6 @@
 Following my passion for programming, I am a **software engineer** who is passionate about Web Development, Machine Learning and open-source 🔥. 
 I love to explore and learn about any new things.
 
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
-
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
@@ -32,8 +30,8 @@ JavaScript   5 mins          ░░░░░░░░░░░░░░░░░
 - Email:
 - Blog: coming soon
 
- ***Welcome to do ⭐ my repository if you find my project interesting, at least your star could make me stay on track and be motivated.***
- 
+ ***Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.***
+ <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
  
  
  
