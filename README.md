@@ -34,9 +34,9 @@ Talk to me about
 ### 📫 Reach me 
 
 - 💬 Ask me about anything.
-- ![Email](mailto:e0210398@e.nus.edu)
-- ![Linkedin](https://www.linkedin.com/in/maitong-yan-a88059148/)
-- ![CSDN](https://blog.csdn.net/sinat_23133783)
+- <a href="mailto:e0210398@e.nus.edu">Email</a>
+- <a href= "https://www.linkedin.com/in/maitong-yan-a88059148/">LinkedIn</a>
+- <a href = "https://blog.csdn.net/sinat_23133783">CSDN</a>
 - Blog: coming soon
 
 ***Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.***
