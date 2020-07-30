@@ -1,10 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
-Welcome to my Github! I'm Martin, a computer science graduate from National University of Singapore.
+Welcome to my Github! I'm Martin 😃, a computer science graduate from National University of Singapore 🏫.
+I am a software engineer working in Hanalytics now. I love to explore and learn about new things.
 
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
-## 📊 Weekly Development Breakdown
+### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
 Other        9 hrs 21 mins   ███████████████████████░░   94.53 % 
@@ -15,14 +16,15 @@ JavaScript   5 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## 💻 Open Source Work Stats
+### 💻 Open Source Work Stats
 
 ![martinyan's Github stats](https://github-readme-stats.vercel.app/api?username=MartinYan623&show_icons=true)
 
 
-How to reach me 
-- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maitong-yan-a88059148/)](https://www.linkedin.com/in/maitong-yan-a88059148/)
-- CSDN:
+### 📫 Contact Me 
+💬 Ask me about anything.
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maitong-yan-a88059148/)](https://www.linkedin.com/in/maitong-yan-a88059148/)
+- [![CSDN Badge](https://img.shields.io/badge/-CSDN-critical?style=flat-square&logo=c&logoColor=white&link=https://www.linkedin.com/in/maitong-yan-a88059148/)](https://www.linkedin.com/in/maitong-yan-a88059148/)
 - Email:
 
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
