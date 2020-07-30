@@ -29,9 +29,9 @@ JavaScript   5 mins          ░░░░░░░░░░░░░░░░░
 - [![CSDN Badge](https://img.shields.io/badge/-CSDN-critical?style=flat-square&logo=c&logoColor=white&link=https://www.linkedin.com/in/maitong-yan-a88059148/)](https://www.linkedin.com/in/maitong-yan-a88059148/)
 - Email:
 - Blog: coming soon
-
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
  ***Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.***
- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+ 
  
  
  
