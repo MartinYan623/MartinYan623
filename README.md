@@ -1,8 +1,18 @@
 ## Hi there 👋🤓
-
+ <img src="http://views.whatilearened.today/views/github/MartinYan623/views.svg"/>
+    <a href="https://daniels-roth-stan.fr/"><img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https%3A%2F%2Fdaniels-roth-stan.fr%2F"/></a>
+    <a href="https://github.com/MartinYan623/"><img src="https://img.shields.io/github/followers/MartinYan623?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/MartinYan623/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+    <a href="https://shields.io/"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
+    <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
+    <img src="https://img.shields.io/badge/Front End-ReactJS-42b883"/>
+    <img src="https://img.shields.io/badge/Back End-Node.js-f55247"/>
+ 
+    
 🎉 Welcome to my Github! I'm **Martin** 😃, a computer science graduate from National University of Singapore 🏫.
 Following my passion for programming, I am a **software engineer** who is passionate about Web Development, Machine Learning and open-source 🔥. 
 I love to explore and learn about any new things ❤️.
+
 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
