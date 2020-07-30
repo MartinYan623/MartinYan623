@@ -24,12 +24,9 @@ Talk to me about
 - Build kinds of models with **Machine Learning** and **Deep Learning** algorithms
 - Manage and maintain cloud server using **Ali Cloud**
 - Solving Data structure and algorithm questions.
-
-### 👨‍💻 I'm currently working on
-- Web development with **ReactJS**
 - Quantitative trading strategy with **Python**
 
-### 💻 Open source work stats
+### 👨‍💻 Open source work stats
 
 ![martinyan's Github stats](https://github-readme-stats.vercel.app/api?username=MartinYan623&show_icons=true)
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
@@ -37,9 +34,9 @@ Talk to me about
 ### 📫 Reach me 
 
 - 💬 Ask me about anything.
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maitong-yan-a88059148/)](https://www.linkedin.com/in/maitong-yan-a88059148/)
-- [![CSDN Badge](https://img.shields.io/badge/-CSDN-critical?style=flat-square&logo=c&logoColor=white&link=https://blog.csdn.net/sinat_23133783)](https://blog.csdn.net/sinat_23133783)
-- Email:
+- ![Email](mailto:e0210398@e.nus.edu)
+- ![Linkedin](https://www.linkedin.com/in/maitong-yan-a88059148/)
+- ![CSDN](https://blog.csdn.net/sinat_23133783)
 - Blog: coming soon
 
 ***Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.***
