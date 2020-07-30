@@ -2,7 +2,7 @@
 
 🎉 Welcome to my Github! I'm **Martin** 😃, a computer science graduate from National University of Singapore 🏫.
 Following my passion for programming, I am a **software engineer** who is passionate about Web Development, Machine Learning and open-source 🔥. 
-I love to explore and learn about any new things.
+I love to explore and learn about any new things ❤️.
 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
@@ -15,8 +15,19 @@ JavaScript   5 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+### ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, Javascript, CSS, React**
+- Backend development using **Node.js, Python**
+- Architecture design for Relational Database Management Systems like **MySQL, Postgres** as well as for NoSQL database systems like **Cassandra, MongoDB and Neo4j**
+- Robust full-stack system design implementation
+- Build kinds of models with **Machine Learning** and **Deep Learning** algorithms
+- Manage and maintain cloud server using **Ali Cloud**
+- Solving Data structure and algorithm questions.
+
 ### 👨‍💻 I'm currently working on
-- I am learning about Web development with ReactJS
+- Web development with **ReactJS**
+- Quantitative trading strategy with **Python**
 
 ### 💻 Open source work stats
 
@@ -27,7 +38,7 @@ JavaScript   5 mins          ░░░░░░░░░░░░░░░░░
 
 - 💬 Ask me about anything.
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maitong-yan-a88059148/)](https://www.linkedin.com/in/maitong-yan-a88059148/)
-- [![CSDN Badge](https://img.shields.io/badge/-CSDN-critical?style=flat-square&logo=c&logoColor=white&link=https://www.linkedin.com/in/maitong-yan-a88059148/)](https://www.linkedin.com/in/maitong-yan-a88059148/)
+- [![CSDN Badge](https://img.shields.io/badge/-CSDN-critical?style=flat-square&logo=c&logoColor=white&link=https://blog.csdn.net/sinat_23133783)](https://blog.csdn.net/sinat_23133783)
 - Email:
 - Blog: coming soon
 
