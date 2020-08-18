@@ -24,11 +24,11 @@ I love to explore and learn about any new things ❤️.
 ```text
 Week: 10 August, 2020 - 17 August, 2020
 
-JavaScript   3 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   30.61 % 
-Python       2 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   26.30 % 
-LESS         1 hr 55 mins    ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Markdown     1 hr 54 mins    ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Other        17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+JavaScript   3 hrs 49 mins   ████████████░░░░░░░░░░░░░   48.69 % 
+Python       1 hr 47 mins    █████░░░░░░░░░░░░░░░░░░░░   22.81 % 
+LESS         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+YAML         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Markdown     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
 ```
 <!--END_SECTION:waka-->
 
