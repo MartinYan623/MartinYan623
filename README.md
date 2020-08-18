@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/in/maitong-yan-a88059148/"><img src="https://img.shields.io/badge/LinkedIn-contact%20me-blue"></a>
   <a href="https://blog.csdn.net/sinat_23133783"><img src="https://img.shields.io/badge/Blog-CSDN-red"></a>
   <img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https%3A%2F%2Fdaniels-roth-stan.fr%2F"/>
+  <img src="https://wakatime.com/badge/github/MartinYan623/My-Blog.svg"/>
  </p>
 
 🎉 Welcome to my Github! I'm **Martin** 😃, a computer science graduate from National University of Singapore 🏫.
