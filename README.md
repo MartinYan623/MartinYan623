@@ -22,7 +22,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 15 August, 2020 - 22 August, 2020
+Week: 16 August, 2020 - 23 August, 2020
 
 Markdown     46 mins         ████████████████░░░░░░░░░   64.22 % 
 Python       25 mins         ████████░░░░░░░░░░░░░░░░░   34.56 % 
