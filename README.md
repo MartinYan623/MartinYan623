@@ -22,7 +22,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2020 - 12 September, 2020
+Week: 06 September, 2020 - 13 September, 2020
 
 Python       3 hrs 39 mins   █████████████░░░░░░░░░░░░   51.89 % 
 JavaScript   2 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   29.99 % 
