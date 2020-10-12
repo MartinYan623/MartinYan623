@@ -50,7 +50,7 @@ Talk to me about
 - 📧 <a href="mailto:e0210398@e.nus.edu">Email</a>
 - 💼 <a href= "https://www.linkedin.com/in/maitong-yan-a88059148/">LinkedIn</a>
 - 📖 <a href = "https://blog.csdn.net/sinat_23133783">CSDN</a>
-- ☁️ <a href = "http://martinyan.cn/#/blog/home">Blog</a>
+- ☁️ <a href = "https://martinyan.cn/#/blog/home">Blog</a>
 
 ***Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.***
  
