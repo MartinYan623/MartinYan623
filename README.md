@@ -22,7 +22,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2020 - 16 October, 2020
+Week: 10 October, 2020 - 17 October, 2020
 
 JSON         1 hr 11 mins    █████░░░░░░░░░░░░░░░░░░░░   22.24 % 
 Docker       1 hr 2 mins     █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
