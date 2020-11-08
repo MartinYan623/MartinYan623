@@ -22,9 +22,9 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 30 October, 2020 - 06 November, 2020
+Week: 31 October, 2020 - 07 November, 2020
 
-JavaScript   37 mins         █████████████████████████   100.00 %
+JavaScript   10 mins         █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
 
