@@ -22,9 +22,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 23 November, 2020 - 30 November, 2020
-
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
