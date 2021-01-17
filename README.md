@@ -22,7 +22,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2021 - 15 January, 2021
+Week: 09 January, 2021 - 16 January, 2021
 
 Python       3 hrs 27 mins   ████████████████████░░░░░   81.63 % 
 CSV          44 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
