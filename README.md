@@ -22,9 +22,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2021 - 24 January, 2021
-
-Python   1 min           █████████████████████████   100.00 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
