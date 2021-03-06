@@ -22,7 +22,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 25 February, 2021 - 04 March, 2021
+Week: 26 February, 2021 - 05 March, 2021
 
 Markdown   1 hr 27 mins    ████████████████░░░░░░░░░   65.54 % 
 Python     36 mins         ██████░░░░░░░░░░░░░░░░░░░   27.39 % 
