@@ -22,7 +22,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 05 March, 2021 - 12 March, 2021
+Week: 06 March, 2021 - 13 March, 2021
 
 JavaScript   2 hrs 43 mins   █████████████████████░░░░   84.98 % 
 LESS         23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
