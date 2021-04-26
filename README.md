@@ -22,7 +22,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 17 April, 2021 - 24 April, 2021
+Week: 18 April, 2021 - 25 April, 2021
 
 JavaScript   5 hrs 51 mins   ██████████████████████░░░   90.46 % 
 JSON         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
