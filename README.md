@@ -22,7 +22,10 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 April, 2021 - 02 May, 2021
+
+Markdown     38 mins         ████████████████████░░░░░   79.62 % 
+JavaScript   9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.38 %
 ```
 <!--END_SECTION:waka-->
 
