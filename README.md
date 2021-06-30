@@ -22,7 +22,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 21 June, 2021 - 28 June, 2021
+Week: 22 June, 2021 - 29 June, 2021
 
 Python       1 hr 31 mins    ████████████████████████░   98.25 % 
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
