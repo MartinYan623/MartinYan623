@@ -22,7 +22,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 29 July, 2021 - 05 August, 2021
+Week: 30 July, 2021 - 06 August, 2021
 
 Python                     2 mins          █████████████████████████   99.64 % 
 Other                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
