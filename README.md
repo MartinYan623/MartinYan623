@@ -22,9 +22,9 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 28 October, 2021 - 04 November, 2021
+Week: 29 October, 2021 - 05 November, 2021
 
-SQL   4 hrs 46 mins   █████████████████████████   100.00 %
+SQL   5 hrs 36 mins   █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
 
