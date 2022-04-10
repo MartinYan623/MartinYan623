@@ -22,9 +22,9 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 01 April, 2022 - 08 April, 2022
+Week: 02 April, 2022 - 09 April, 2022
 
-SQL   2 hrs 43 mins   █████████████████████████   100.00 %
+SQL   2 hrs 19 mins   █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
 
