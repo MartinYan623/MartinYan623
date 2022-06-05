@@ -22,7 +22,7 @@ I love to explore and learn about any new things ❤️.
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 27 May, 2022 - 03 June, 2022
+Week: 28 May, 2022 - 04 June, 2022
 
 SQL    12 hrs 55 mins  █████████████████████████   99.93 % 
 Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
