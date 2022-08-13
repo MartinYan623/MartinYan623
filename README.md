@@ -44,7 +44,7 @@ Talk to me about
 ### 👨‍💻 Open source work stats
 
 ![martinyan's Github stats](https://github-readme-stats.vercel.app/api?username=MartinYan623&show_icons=true)
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='100"'>
 
 ### 📫 Reach me 
 
